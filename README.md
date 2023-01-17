@@ -1,5 +1,5 @@
 # range-parser
-export all a ip range to text file
+Extracting all IPs of a subnet to text file to text file
 
 ## Running 
 
