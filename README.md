@@ -1,4 +1,4 @@
-# range-parser
+# ranger
 Extracting all IPs of a subnet to text file to text file
 
 ## Running 
