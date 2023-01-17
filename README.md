@@ -1,2 +1,2 @@
-# ip-range
-export ip range to file
+# range-parser
+export all a ip range to text file
