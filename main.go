@@ -22,7 +22,7 @@ func main() {
 	flag.StringVar(&input, "ip", "", "")
 	flag.Parse()
 
-	f, err := os.Create("data.txt")
+	f, err := os.Create("ip.txt")
 
 	if err != nil {
 		log.Fatal(err)
