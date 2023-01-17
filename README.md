@@ -3,7 +3,7 @@ export all a ip range to text file
 
 ## Running 
 
-As an example, assume you need to expose the "timedatectl" command as a web API. You can simply run the tool as follows:
+As an example, You can simply run the tool as follows:
 
 ```bash
 ./range-parser -ip 192.168.1.1/24
