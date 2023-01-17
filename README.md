@@ -6,7 +6,7 @@ Extracting all IPs of a subnet to text file to text file
 As an example, You can simply run the tool as follows:
 
 ```bash
-./range-parser -ip 192.168.1.1/24
+./ranger -ip 192.168.1.1/24
 ```
 
 ## Last words
